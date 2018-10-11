@@ -1,0 +1,19 @@
+.sidenav{
+float: left;
+width: 10%;
+background-color: #d3d3d3;
+border: 2px solid;
+border-color: black;
+}
+.blue{
+  color: blue;
+}
+.well{
+  padding: 5px;
+  margin-left: 140px;
+}
+.bullets{
+  color: blue;
+  margin-left: 60%;
+  list-style-position: outside;
+}
