@@ -1,22 +1,25 @@
 .sidenav{
-float: left;
-width: 10%;
-background-color: #d3d3d3;
-border: 2px solid;
-border-color: black;
+  font-size: inherit;
+  position: absolute;
+  top: 0;
+  width: 10em;
+  left: 0;
+  display: block;
 }
+
 .blue{
   color: blue;
 }
+
 .well{
-  padding: 5px;
-  margin-left: 140px;
-}
-.bullets{
-  color: blue;
-  margin-left: 60%;
-  list-style-position: outside;
-  display: inline-block;
+  margin-left: 0px;
 }
 
+.bullets{
+  color: blue;
+  margin-top: 20px;
+}
+
+body{
+  background-color: #f2f2f2;
 }
