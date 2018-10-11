@@ -16,4 +16,7 @@ border-color: black;
   color: blue;
   margin-left: 60%;
   list-style-position: outside;
+  display: inline-block;
+}
+
 }
